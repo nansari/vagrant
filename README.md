@@ -1,4 +1,4 @@
-# 3 Virtual Machines Kubernetes cluster
+# 3 Nodes Virtual Machines Kubernetes cluster
 
 ## Dependencies
 Install VitualBox and Vagrant on your host system
